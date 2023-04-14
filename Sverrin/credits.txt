@@ -1,0 +1,19 @@
+------------ Créditos ------------
+
+Exame final do 2° semestre
+
+Disciplina: CES - 11
+
+Professor: Filipe Alves Neto Verri
+
+Idealizado por:
+	Igor Nascimento Araújo
+	João Victor Kerber de Mello
+	Pedro Arthur Sales Rebouças
+	Leonardo Peres Dias
+
+Programado por:
+	Igor Nascimento Araújo
+	João Victor Kerber de Mello
+	Pedro Arthur Sales Rebouças
+	Leonardo Peres Dias

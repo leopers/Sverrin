@@ -1,0 +1,5 @@
+Instruções para jogar:
+
+	Para iniciar o jogo, rode a makefile presente na pasta.
+	Em seguida, basta seguir as instruções que aparecem na tela.
+	Para sair e salvar, basta pressionar a tecla S.
